@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8lzm/DFBUflaEgU69CFqHarg7oeEIoQL6oRbtjtfuWg4eTuu8oIaTjfCm2TZOhasCOO973KqaiKaiws1/jBJpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Documents\\DOSP\\chord\\chord.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\fsharp.core\\6.0.7\\fsharp.core.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
